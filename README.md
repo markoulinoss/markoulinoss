@@ -23,7 +23,7 @@
 
 - 🎮 **[CakeHunt](https://github.com/markoulinoss/CakeHunt)** — a small 2D RPG game built in Lua/LÖVE, made as a birthday gift
 - 📊 **[Data Analysis & Machine Learning Assignments](https://github.com/markoulinoss/Data_Analysis_Machine_Learning_Assignments)** — coursework and notebooks for my Data Analysis and Machine Learning class
-- 🤖 **[QuesterLog]([https://github.com/markoulinoss/soiree-planner](https://github.com/markoulinoss/questerlog))** — A daily quest app for people who want to make a difference (to be added soon)
+- 🤖 **[QuesterLog](https://github.com/markoulinoss/questerlog)** — A daily quest app for people who want to make a difference
 - 🎓 **[ERASMUS_APP](https://github.com/dgenak/ERASMUS_APP)** — a Java app built with a classmate
 
 ### 🧰 Languages & Tools

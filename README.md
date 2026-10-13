@@ -26,6 +26,13 @@
 - 🤖 **[QuesterLog](https://github.com/markoulinoss/questerlog)** — A daily quest app for people who want to make a difference
 - 🎓 **[ERASMUS_APP](https://github.com/dgenak/ERASMUS_APP)** — a Java app built with a classmate
 
+### 🌍 Open Source Contributions
+
+- **Open Food Facts — Greek Translation**
+  - Contributed Greek translations via Crowdin.
+  - [View my Crowdin profile](https://crowdin.com/profile/markoulinoss)
+  - [Open Food Facts on GitHub](https://github.com/openfoodfacts)
+
 ### 🧰 Languages & Tools
 
 <p align="left">
